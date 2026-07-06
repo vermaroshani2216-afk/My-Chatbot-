@@ -86,8 +86,8 @@ This chatbot was developed as part of my internship to learn how AI can be appli
 **Roshani Verma**
 
 Internship Project | AI Farming Support Chatbot
-https://www.linkedin.com/in/roshani-verma-3b522541a?utm_source=share_via&utm_content=profile&utm_medium=member_android
-https://huggingface.co/spaces/Roshani8077046024/testing-space
+Linkedin - https://www.linkedin.com/in/roshani-verma-3b522541a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Hugging Face - https://huggingface.co/spaces/Roshani8077046024/testing-space
 
 
 
